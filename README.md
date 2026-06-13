@@ -41,7 +41,7 @@ jobs:
           Write-Host "=========================================="
           Write-Host "RDP IP Address: $ip"
           Write-Host "Username: toolboxlab"
-          Write-Host "Password: admin@123"
+          Write-Host "Password: admin@1234"
           Write-Host "=========================================="
 
       - name: RDP Active Session Loop (Keep Alive)
